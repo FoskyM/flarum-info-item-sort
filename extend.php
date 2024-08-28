@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace FoskyM\\InfoItemSort;
+namespace FoskyM\InfoItemSort;
 
 use Flarum\Extend;
 
